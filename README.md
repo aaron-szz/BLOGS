@@ -23,4 +23,4 @@ Los blogs se han convertido en una forma importante de comunicación en línea y
 
 |Justin Hall|Jorn Barger|
 |:----------:|:----------:|
-|![U+200E](https://github.com/aaron-szz/BLOGS/blob/main/justin-hall.jpg.webp "imagen")|![U+200E](https://github.com/aaron-szz/BLOGS/blob/main/Jornbarger.jpg "imagen")|
+|![U+200E](https://github.com/aaron-szz/BLOGS/blob/main/JustinHallJoiIto.jpg "imagen")|![U+200E](https://github.com/aaron-szz/BLOGS/blob/main/Jornbarger.jpg "imagen")|
