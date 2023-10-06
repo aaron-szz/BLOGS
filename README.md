@@ -20,3 +20,5 @@ La idea de los blogs comenzó en los años 90, pero se puso de moda en los 2000s
 - __Resumen__
 
 Los blogs se han convertido en una forma importante de comunicación en línea y han evolucionado con el tiempo. Hoy en día, existen numerosas plataformas y herramientas que permiten a las personas crear y administrar blogs de manera sencilla
+
+![U+200E](https://github.com/aaron-szz/BLOGS/blob/main/87123_cw0914_jobs_bloggers_lowe_300m.jpg "imagen")
